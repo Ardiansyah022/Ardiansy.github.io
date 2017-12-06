@@ -20,6 +20,21 @@ linkedin_username: ardiansyah
 uin suska: http://uin-suska.ac.id/
 sif uin: http://sif.uin-suska.ac.id/
 
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+     values:
+        layout: 'post'
+        
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rounge
+
 # Google-analytics
 google-analytics:
   id: ""
