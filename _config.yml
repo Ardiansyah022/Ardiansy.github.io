@@ -1,8 +1,6 @@
 # Site settings
 title: ARDIANSYAH
-description: '<p>Mahasiswa Sistem Informasi TA 2014</p>
-              <p>Fakultas : Sains dan Teknologi</p>
-              <p>Universitas Islam Negeri Sultan Syarif Kasim Riau</p>'
+description: '<p>Universitas Islam Negeri Sultan Syarif Kasim Riau</p>'
 url: 'http://Ardiansyah022.github.io'
 baseurl: '/Ardiansyah022.github.io/'
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
@@ -10,7 +8,8 @@ baseurl: '/Ardiansyah022.github.io/'
 
 # User settings
 username: Ardiansyah
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: <p>Mahasiswa Sistem Informasi TA 2014</p>
+              <p>Fakultas : Sains dan Teknologi</p>
 user_title: Universitas Islam Negeri Sultan Syarif Kasim Riau
 email: ardiansyah541996@gmail.com
 twitter_username: ardiansyah
