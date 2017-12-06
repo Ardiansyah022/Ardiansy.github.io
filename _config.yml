@@ -1,17 +1,24 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: ARDIANSYAH
+description: '<p>Mahasiswa Sistem Informasi TA 2014</p>
+              <p>Fakultas : Sains dan Teknologi</p>
+              <p>Universitas Islam Negeri Sultan Syarif Kasim Riau</p>'
+url: 'http://Ardiansyah.github.io'
+baseurl: '/Ardiansyah.github.io/'
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
+username: Ardiansyah
 user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
 user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: ardiansyah541996@gmail.com
+twitter_username: ardiansyah
+github_username:  ardiansyah022
+gplus_username:  ardiansyah
+linkedin_username: ardiansyah
+uin suska: http://uin-suska.ac.id/
+sif uin: http://sif.uin-suska.ac.id/
 
 # Google-analytics
 google-analytics:
